@@ -1,4 +1,5 @@
 *.toml -text
+* -text
 *.pw.toml -text
 *.json -text
 *.ini -text

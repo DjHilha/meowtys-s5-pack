@@ -48,32 +48,12 @@
 		velara = true
 		wooden = true
 		overgrown_wooden = true
-		burnt = true
 
 	[wood_type.auxiliaryblocks]
 		gloomy = true
 
 	[wood_type.buildscape]
 		mangrove = true
-		poplar = true
-
-	[wood_type.regions_unexplored]
-		alpha = true
-		baobab = true
-		blackwood = true
-		cherry = true
-		cypress = true
-		dead = true
-		eucalyptus = true
-		joshua = true
-		larch = true
-		maple = true
-		mauve = true
-		palm = true
-		pine = true
-		redwood = true
-		willow = true
-		sculkwood = true
 
 [leaves_type]
 
@@ -120,36 +100,13 @@
 		snowy_mangrove = true
 		snowy_azalea = true
 		snowy_flowering_azalea = true
-		orange_poplar = true
-		red_poplar = true
-		yellow_poplar = true
-
-	[leaves_type.regions_unexplored]
-		alpha = true
-		baobab = true
-		blackwood = true
-		cherry = true
-		cypress = true
-		dead = true
-		eucalyptus = true
-		joshua = true
-		larch = true
-		maple = true
-		mauve = true
-		palm = true
-		pine = true
-		redwood = true
-		willow = true
-		sculkwood = true
-		apple_oak = true
-		flowering = true
-		silver_birch = true
-		bamboo = true
-		red_cherry = true
-		pink_cherry = true
-		white_cherry = true
-		dead_pine = true
-		golden_larch = true
-		red_maple = true
-		orange_maple = true
+		decorated_oak = true
+		decorated_spruce = true
+		decorated_birch = true
+		decorated_jungle = true
+		decorated_acacia = true
+		decorated_dark_oak = true
+		decorated_mangrove = true
+		decorated_azalea = true
+		decorated_flowering_azalea = true
 

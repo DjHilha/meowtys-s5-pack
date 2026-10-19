@@ -1,0 +1,16 @@
+filename = 'voicechat-forge-1.18.2-2.6.16.jar'
+name = 'Simple Voice Chat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2e51cd39fa4abc887172f61fc82307d7f85ce0ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7904960
+project-id = 416089

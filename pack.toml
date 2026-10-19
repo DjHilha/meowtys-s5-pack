@@ -1,4 +1,4 @@
-name = "Meowtys S4"
+name = "Meowtys S5"
 author = "Hilha"
 version = "5.2"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7709baec32882147df657bbe1f6174b45882efe545e963bc520dc9c651206c19"
+hash = "f1cd5876025865bab2928cd46e661dca18dbf45cded42626301392c588b8ab9d"
 
 [versions]
 forge = "40.3.11"

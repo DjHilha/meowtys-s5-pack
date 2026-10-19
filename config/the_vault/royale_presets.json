@@ -10823,7 +10823,7 @@
       ]
     }
   ],
-  "skillPresetSize": 5,
-  "blueTrinketPresetSize": 5,
-  "redTrinketPresetSize": 5
+  "skillPresetSize": 3,
+  "blueTrinketPresetSize": 3,
+  "redTrinketPresetSize": 3
 }

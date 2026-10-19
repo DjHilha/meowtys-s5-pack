@@ -1,0 +1,16 @@
+filename = 'InitialInventory-forge-1.18.2-6.0.8.jar'
+name = 'Initial Inventory'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5388e0c559c5761b66b84f52f43f5a485a85317b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3757617
+project-id = 253230

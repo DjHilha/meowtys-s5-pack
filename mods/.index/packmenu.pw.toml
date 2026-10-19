@@ -1,0 +1,16 @@
+filename = 'PackMenu-1.18.2-4.1.4.jar'
+name = 'PackMenu'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a1748b1d65b4b1ba6c443418cbefe9f2e92af04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4050356
+project-id = 358191

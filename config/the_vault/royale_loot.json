@@ -25,7 +25,7 @@
       "weight": 2.0
     }
   ],
-  "numberOfSelections": 5,
+  "numberOfSelections": 3,
   "lootRemapper": {
     "the_vault:wooden_chest": "the_vault:royale_wooden",
     "the_vault:gilded_chest": "the_vault:royale_special",
@@ -74,9 +74,9 @@
   },
   "infusionChances": {
     "@the_vault:assassin": 0.01,
-    "@the_vault:fighter": 1,
-    "@the_vault:tank": 0.6,
-    "@the_vault:horde": 0.4
+    "@the_vault:fighter": 0.1,
+    "@the_vault:tank": 0.3,
+    "@the_vault:horde": 0.005
   },
-  "negativeModifier": "the_vault:buffed"
+  "negativeModifier": "the_vault:challenge_stack"
 }

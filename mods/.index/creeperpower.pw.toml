@@ -1,0 +1,16 @@
+filename = 'creeperpower-1.18.2-0.2.0.jar'
+name = 'CreeperPower'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7e624fd0a6537513482a08ff441b980e930ffef4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8492459
+project-id = 1563729

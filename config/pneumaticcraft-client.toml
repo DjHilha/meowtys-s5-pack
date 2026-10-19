@@ -76,4 +76,3 @@
 	#Volume level of the Jackhammer
 	#Range: 0.0 ~ 2.0
 	jackhammer_volume = 0.7
-

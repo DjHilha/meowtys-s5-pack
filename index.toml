@@ -14563,6 +14563,10 @@ file = "mods/FarmersDelight-1.18.2-1.2.3.jar"
 hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"
 
 [[files]]
+file = "mods/FastLeafDecay-28.jar"
+hash = "ddf28b3361c45bf060bab856a68b3520d6a3b6cf700f833cce6adb0c6bd7bdf0"
+
+[[files]]
 file = "mods/FastWorkbench-1.18.2-6.1.1.jar"
 hash = "f6bc20027a7ae63cf5d29480dc20bcaa8a7b2a364cb5045994dd83c031a4ea88"
 

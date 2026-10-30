@@ -14735,10 +14735,6 @@ file = "mods/architectury-4.12.94-forge.jar"
 hash = "e5fee3917f1abd665a3a4402358d9e65cd988964c1b099a522baa22056234397"
 
 [[files]]
-file = "mods/armor_trims-forge-1.18.2-2.0.0.jar"
-hash = "a08250cf164ab01c4daa6bb7f997421f3acd79959b5d6de01f10d7190345933d"
-
-[[files]]
 file = "mods/auudio_forge_1.0.3_MC_1.18-1.18.2.jar"
 hash = "edd83605626f94ed9c66c51d3aa7d0d302618be80a910665fc7739db4c911c4b"
 

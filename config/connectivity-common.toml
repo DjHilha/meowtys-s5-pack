@@ -1,7 +1,7 @@
 
 ["Connectivity settings"]
 	#Should login packet size limits be disabled? Error:(IOException("Payload may not be larger than 1048576 bytes")) default:true
-	disableLoginLimits = true
+	disableLoginLimits = false
 	#Should play packet size limits be disabled? Error:(Badly compressed packet) default:true
 	disablePacketLimits = true
 	#If enabled all messages exceeding normal limits will be printed to log. default:false

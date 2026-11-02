@@ -198,7 +198,7 @@ hash = "739dcbea19b88a48e9f603101f44aead4170ba07c80c582da090900a6c7cafd2"
 
 [[files]]
 file = "config/connectivity-common.toml"
-hash = "7941dc7f761c7d5296c0d29d0184c3c63c41f73b605cec9ec1ddbc12664f475b"
+hash = "e45e698dd6068e7bb13583269c1e03da802eeb2ee6ff344a870aec4fa0d68d87"
 
 [[files]]
 file = "config/cookingforblockheads-common.toml"

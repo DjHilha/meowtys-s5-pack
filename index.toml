@@ -15207,8 +15207,8 @@ file = "mods/twitchspawn_1.18.2-1.9.3.jar"
 hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
 
 [[files]]
-file = "mods/vault-portal-preview-0.1.0-mc1.18.2.jar"
-hash = "174dc061e0fc482357089484d77accca2070d88f19b7cde1991517a6bd54e058"
+file = "mods/vault-portal-preview-0.1.1-mc1.18.2.jar"
+hash = "f77e832360260a201f6a417aa54c2f100dbe5a930cb8490acdcff9f16d4bacf9"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.14.0.jar"

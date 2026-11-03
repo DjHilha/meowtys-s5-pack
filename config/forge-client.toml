@@ -10,7 +10,7 @@
 	#When enabled, Forge will show any warnings that occurred during loading.
 	showLoadWarnings = true
 	#Set to true to use a combined DEPTH_STENCIL attachment instead of two separate ones.
-	useCombinedDepthStencilAttachment = false
+	useCombinedDepthStencilAttachment = true
 	#Forces the use of System.nanoTime instead of glfwGetTime, as the main Util time provider
 	forceSystemNanoTime = false
 	#When enabled, Forge will convert discovered 'Open to LAN' IPv6 addresses to their more compact, compressed representation

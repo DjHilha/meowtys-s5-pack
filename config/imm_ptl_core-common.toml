@@ -11,7 +11,7 @@ portalRenderLimit = 200
 indirectLoadingRadiusCap = 8
 enableCrossPortalSound = true
 enableModelDataFix = true
-compatibilityRenderMode = false
+compatibilityRenderMode = true
 doCheckGlError = false
 #Range: > 0
 portalSearchingRange = 128

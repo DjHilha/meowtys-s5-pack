@@ -402,7 +402,7 @@ hash = "8af1a845056b3cd4d3b2deb9a820d8a097295f3698f52d8ed27204a6e4c13db6"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "f988b7fb237bba0f93e950532f93d7e55f93f07f502516f57852c0c5400b746b"
+hash = "400884b98ddbff13d69ca68a47e4deeff691657c4d1b21c2169a9dbb641bef47"
 
 [[files]]
 file = "config/forge-common.toml"
@@ -426,7 +426,7 @@ hash = "a831f1fd23759f5669f9ac9fd82fd7b49d372359592a63a2b3142ddfdf1f2043"
 
 [[files]]
 file = "config/imm_ptl_core-common.toml"
-hash = "28951f22bdee05ad1be302e871d96522e81fe75e4641c79e79bfebae53bf471c"
+hash = "4cf1a8a0a5daee7ec4545c112ac24194e307d59ffdfdb4e9290beee97cb260a8"
 
 [[files]]
 file = "config/industrialforegoing/machine-agriculture-husbandry.toml"
@@ -14944,7 +14944,7 @@ hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
 
 [[files]]
 file = "mods/immersive-portals-1.4.20-mc1.18.2-forge.jar"
-hash = "779e5a465cbcd0d3c1dba848ca7e466e060fa1c6d60550235e168af3e7cc1e76"
+hash = "af030ff5e6544d02c6a89c55c2b21e67f254155450776f7aef08f0eea73ed417"
 
 [[files]]
 file = "mods/industrial-foregoing-1.18.2-3.3.1.7-11.jar"

@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/loading_splash.png
+  image_path = [source:location]packmenu:textures/gui/loading_splash.png
   slide = false
   repeat_texture = false
   parallax = false

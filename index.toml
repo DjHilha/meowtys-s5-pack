@@ -334,7 +334,7 @@ hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
 
 [[files]]
 file = "config/fancymenu/assets/loading_splash.png"
-hash = "093848ed1eb9ea396e6fba5fa3424b9d487841c71c978f696b08a1cecce909a1"
+hash = "e31e0ff78b920408694a28ae2c29fdbb7628c332036b796433579ee2424d2a05"
 
 [[files]]
 file = "config/fancymenu/assets/tips.txt"
@@ -350,7 +350,7 @@ hash = "b0d3bf881aa9abd9a0c0f01510c68441e558b0341020ade60ea63b6d16bce403"
 
 [[files]]
 file = "config/fancymenu/customization/loading.txt"
-hash = "0060fad5a7b36fcd0bc56940cde151a738dbc4de9257e039f15705a1ee4f4d4f"
+hash = "135f24f3b021ccbf8a240dc8139dabdaf36ce458879ed383b7a560d2834849f4"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -678,7 +678,7 @@ hash = "4c4dd50adbf4fe38e9dcab981704f3f45326337401b91dbc20544171206a2a07"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "e5c2debad25b096eb8b2a6675c3b05951b1b4a752d6efbd20128c6aacb340d9c"
+hash = "afe9326863fd489045287129b9266701ca82c768464bab6a6342086152051c16"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -14628,7 +14628,7 @@ hash = "a981e77d4825111d15b529400eac3c21f43b3a47ea12d82475a66cf919e52aa0"
 
 [[files]]
 file = "mods/MeowtysMod.jar"
-hash = "d0644a0751d6bfd92952d7135e8d0a6b872c0b34ef9093fff323aab96771809b"
+hash = "9aa4930e8785e440a52bc02ef42163f8810d36e5e31aeb3210229a120059a574"
 
 [[files]]
 file = "mods/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
@@ -15023,6 +15023,10 @@ file = "mods/melody_forge_1.0.1_MC_1.18.2.jar"
 hash = "5029f2936d858bbf776a9bdff61718ff09641a83247a1802d538bd367ecae7cf"
 
 [[files]]
+file = "mods/meowtys-circle-menu-1.0.0-mc1.18.2.jar"
+hash = "c01c648f7c81ffcd85acd5d15f0506b190ed6c93dadceb26e9dc435a57ad7c79"
+
+[[files]]
 file = "mods/merequester-1.18.2-1.1.2.jar"
 hash = "29d228021b880617022b8d2e46ad84c96e06f2c8b5382bfa118f30a4d9fe05eb"
 
@@ -15244,31 +15248,31 @@ hash = "348a65bb5bf2dacfbb610d5ca480297d7a9f12349b4b00efb8c52638f371895a"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
-hash = "f8d557a33e995afe2112881b52d8259f6f0423843b983a1add401a2ce6b96977"
+hash = "b698b5617e89feb4bb81ce69fd1ae40af60b06b46902382bced2359422dc5fdd"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/discord.json"
-hash = "dcd9dcba3ad8effa57df4a5a583c42f52502f120d6fdaa08f9343e9b4b060936"
+hash = "a52ae8c8f67b278f59d2f426d353b30b61cdad50db73a9969b5967c987ca1db1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/language.json"
-hash = "aa4d9e9276f2d9e526af2590717a3d16a065fbaa7a5e57c38c26050a294d9435"
+hash = "2238976e173dcffe1aa6a16c003a6346605e2efd5c26e700e61498dbb85c0d89"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
-hash = "06629636135cd2c81f0471ba848fbbe69e60bc05de96dea3c377eca021494e43"
+hash = "47f08edf3638205188eee98f47614df2d0a289b497e38e02be21ad30d81e412d"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/options.json"
-hash = "13fe7a630182b3422fddaa554a695f722fa74782b93ff2a2b3644093110f36c2"
+hash = "fd6610e2606e5399354928722d921063a381a8dee107133226d9e048598c7046"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/patchnotes.json"
-hash = "481c81bc4c5587b5bbc14d705cdf3cd00a78193a86af6bf1f5c2fc79669e7e85"
+hash = "86240ce3320f60cd34021d45435aae4d0b9179606e953f57f3e1b77be9669c04"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
-hash = "1a4f3b08dd7b3a56421194704fa53ddbdc2e36b09825d0c8adb87621c42cd9a4"
+hash = "fe2d96b4f5dc42c47cec301adf58df98eef212f5b557b8809b96b21219b0e02a"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/reloadbutton.json.disable"
@@ -15276,11 +15280,11 @@ hash = "cd751512f196a72b0d4ec51408590fec154d43598d88b2d0dbc5133650cd17de"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
-hash = "ad6bef09111f858417d8d82a9945e961ce278d83874564505b7a821a4e2d6c51"
+hash = "da2fff47c7e5a57318472f881fb59eaa4a8edf39004fab37cc4c00d601951ff0"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/wiki.json"
-hash = "4b9a91e7842a8457a1d9d45cb05f34a0401aa1997b9781e94018051aae87feed"
+hash = "093ba6c83baee9f4e55eed49c827f2e20c1d1fb63c1dd396e68bd25643661acb"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
@@ -15292,15 +15296,31 @@ hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "6f5cd0ab079aca93e412e4c7c724862bb70ae86161ab791c19df079b20e09f9b"
+hash = "990ce892cc37ebecdfcaf7e2a746a25418c176c2e4f0a87d5d5d67eb8518c721"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png.mcmeta"
+hash = "6de2cb00c45ccc7edc47a8ebac73b003af81877efa31c755e2ee89adb97e0f0f"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/loading_splash.png"
-hash = "093848ed1eb9ea396e6fba5fa3424b9d487841c71c978f696b08a1cecce909a1"
+hash = "e31e0ff78b920408694a28ae2c29fdbb7628c332036b796433579ee2424d2a05"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/loading_splash.png.mcmeta"
+hash = "6de2cb00c45ccc7edc47a8ebac73b003af81877efa31c755e2ee89adb97e0f0f"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
 hash = "4f96932a7bfd9f0196947b3680f77720980088e9f9b5335e7e1583b77186ab29"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/meowtys_logo.png"
+hash = "52ace3b24a06f4631b9e7f753bfc337427b9418bcda22cfa050696a44042c9a7"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/meowtys_logo.png.mcmeta"
+hash = "6de2cb00c45ccc7edc47a8ebac73b003af81877efa31c755e2ee89adb97e0f0f"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/vh_button_accessibility.png"
@@ -15332,7 +15352,7 @@ hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
 file = "packmenu/resources/packmenu.cfg"
-hash = "21864a61ddd04b3b361074da80f204dfe0252dc3f04aab9fe5ccbd6ca4a4f95a"
+hash = "dad4cfd42a12684d343303af78244de53d5ff341d74f283e3e8d970327926dae"
 
 [[files]]
 file = "packwizignore"

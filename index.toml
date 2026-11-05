@@ -14943,10 +14943,6 @@ file = "mods/geckolib-forge-1.18-3.0.57.jar"
 hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
 
 [[files]]
-file = "mods/immersive-portals-1.4.20-mc1.18.2-forge.jar"
-hash = "fc5581b700edac116aafbcbe9c25255a5e512ff3ed07e231afbe172574e01578"
-
-[[files]]
 file = "mods/industrial-foregoing-1.18.2-3.3.1.7-11.jar"
 hash = "5ff7dce05c3c3233fae8213bb8a23b4b5957495ec6adbd07143f862f9ba7a35a"
 

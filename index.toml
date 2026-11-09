@@ -14715,6 +14715,10 @@ file = "mods/TerraBlender-forge-1.18.2-1.2.0.126.jar"
 hash = "77efe21003e4968460652dda1454f4777ca0a5c77fe84d698259cf4472dafa04"
 
 [[files]]
+file = "mods/Vault-Pockets-1.18.2-1.1.1.jar"
+hash = "c09f3f5862fcfe74071e8c97efcfefd0e68c899fd89cc01fdac5aa5264da0ef8"
+
+[[files]]
 file = "mods/VaultLootBeams-1.18.2-1.0.2.jar"
 hash = "c7d86f25d8e1ab191f7c1707ec09fd4fb854e88101c1a34f8295d9b169e1efa4"
 

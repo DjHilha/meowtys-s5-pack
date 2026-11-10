@@ -14483,6 +14483,10 @@ file = "mods/AkashicTome-1.5-20.jar"
 hash = "156c495d55c312522ca51e46db272dbfba209d0c2fc70c95466d1cd487859f92"
 
 [[files]]
+file = "mods/Aquaculture-1.18.2-2.3.12.jar"
+hash = "b40aa5ad7895b9d463f6dbad0980f7b0c0ecc51fb25bcfca456a35353feb4e21"
+
+[[files]]
 file = "mods/Architects-Palette-1.18.2-1.3.2.1.jar"
 hash = "18e827259b3384c8ce20400c36c761e05592aa5db94d2202a9328347f585308c"
 
@@ -14493,6 +14497,10 @@ hash = "41ece668218c074bf2f30be5883cd90ad1a48dad6537a7fefca720230f688140"
 [[files]]
 file = "mods/BHMenu-Forge-1.18.2-2.4.3.jar"
 hash = "54323ec4048cfb63fe493e0b7ec48e860fbd576238c6f630ed56e2648570ee96"
+
+[[files]]
+file = "mods/BetterAnimationsCollection-v3.0.0-1.18.2-Forge.jar"
+hash = "f58a9eb554c2a8088df0cc5ceecfb0c9843c12281a218b25556428b76025e96d"
 
 [[files]]
 file = "mods/BetterCompatibilityChecker-1.1.21-build.48+mc1.18.2.jar"
@@ -15164,7 +15172,7 @@ hash = "9c84722118f0da13acbb393d3108d2a53db30e802b19d69e87fd59c9b9814005"
 
 [[files]]
 file = "mods/the_vault-1.18.2-21.6.1-remastered.6956.jar"
-hash = "b936ea855c325007e2ddb1162ac83dbb6a97d7d858a8baa51b48c01cfdf93fe4"
+hash = "a26765eec26e59f6a081f78a3bdaf42ada54cdbed8644151f372b7c913860b99"
 
 [[files]]
 file = "mods/thermal_dynamics-1.18.2-9.2.2.19.jar"

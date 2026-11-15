@@ -14543,6 +14543,10 @@ file = "mods/CraftTweaker-forge-1.18.2-9.1.213.jar"
 hash = "d27b4739f7b4da0fe92141000e4cfc5bef617202de6eb9bb4bb2147e9e1e9c6e"
 
 [[files]]
+file = "mods/CreateCasing-1.18.2-1.6.1-fix3.jar"
+hash = "6d4b7ce824fe7687d1c02975337be5ef1b5e5e6e9a072672cc1371dbc599f298"
+
+[[files]]
 file = "mods/CreateTweaker-1.18.2-2.0.0.20.jar"
 hash = "521914c5e9c147edf0f692b888d35da7e2830e8595af198f3cd4572f5ced6c35"
 
@@ -14867,6 +14871,10 @@ file = "mods/createaddition-1.18.2-1.0.0.jar"
 hash = "359d3811abfcc775822b758a575649dee3c14660dab03f16ce1235687d2b330f"
 
 [[files]]
+file = "mods/createbb-1.18.2-1.9.1.jar"
+hash = "6f9098d5b83a5f9c191541a61b803882e3e08b877c883bf21e3c07655fa07abe"
+
+[[files]]
 file = "mods/createcafe-1.10.5-1.18.2.jar"
 hash = "0888225b3361ea75b924ee7841a01ef8c8f2d3bfe91f9046c1c365c52d487b71"
 
@@ -14893,6 +14901,10 @@ hash = "327b6a611cdd10be9d789e082cb7c91ef8afa822dcb3daf112aee71012fdfd13"
 [[files]]
 file = "mods/deimos-1.18.2-forge-2.4.jar"
 hash = "eb8a2f57362f826a546832e997db9f33dfc8279d348188f278d6371969baccd5"
+
+[[files]]
+file = "mods/design_decor-0.2a-1.18.2.jar"
+hash = "3c731613cb4422b999e4f9c551f38af097413dd9f055748cbadb9ae8d0b9548c"
 
 [[files]]
 file = "mods/drippyloadingscreen_forge_3.0.12_MC_1.18.2.jar"
@@ -14925,6 +14937,14 @@ hash = "13692c1b8eea33aa059c0ffff1f5351e15d748e9ebb45ab55eef637b8ab1f400"
 [[files]]
 file = "mods/entangled-1.3.21-forge-mc1.18.jar"
 hash = "99c347b73fd3d5bd4a4d786a20ad6777f6aa31c5139d3db3011fbf67c77819b7"
+
+[[files]]
+file = "mods/entity_model_features_forge_1.18.2-2.0.2.jar"
+hash = "1915d7f7d68c59cf19ffa36420923251a843a1334625d8dfd91547e341aa8eaa"
+
+[[files]]
+file = "mods/entity_texture_features_forge_1.18.2-6.0.1.jar"
+hash = "7accbc5c7df155493ff7574b0bab69f30e87a103f6c82d8f215b7e573133eedc"
 
 [[files]]
 file = "mods/everycomp-1.18.2-1.5.18.jar"
@@ -15613,6 +15633,10 @@ hash = "a206386bd7f7c7d899b0b05228890ae5170aee12c150acde503d6a78cfd4e73f"
 [[files]]
 file = "patchouli_books/the_vault_main_guide/en_us/entries/vault_tools/variants.json"
 hash = "f0ac22c91075799831792da2026b403668f7cc2b568d15a3270111755b2490b3"
+
+[[files]]
+file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip"
+hash = "91c2549cb3a462ca3d493a72a0ab478dc5fa74b047ac1b2a664d86a0f6f51f2d"
 
 [[files]]
 file = "resourcepacks/Copper Legacy Pack.zip"
